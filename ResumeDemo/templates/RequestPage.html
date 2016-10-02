@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/RequestStyle.css') }}" />
+    <title>Resume Demo</title>
+</head>
+<body>
+    Classify your resume
+    <form method="POST">
+        <div id="name">
+            <label for="name">Name</label>
+            <input name="name" type="text" />
+        </div>
+        <div id="submit">
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</body>
+</html>
