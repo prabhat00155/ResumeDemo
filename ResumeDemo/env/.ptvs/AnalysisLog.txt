@@ -1464,3 +1464,53 @@ C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Micro
 2016-09-30T23:50:22: Saving group "c:\users\prroy\documents\visual studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\_markerlib"
 2016-09-30T23:50:22: End of group "c:\users\prroy\documents\visual studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\_markerlib"
 2016-09-30T23:50:22: Deleting 0 files
+
+2016-10-05T14:48:48: Start analysis
+2016-10-05T14:48:48: [WARNING] Library was set explicitly - skipping path detection
+2016-10-05T14:48:48: IncludeModulesFromModulePath = win32com
+2016-10-05T14:48:49: Deleting 0 files
+2016-10-05T14:48:49: astropy.CallDepth = 0
+2016-10-05T14:48:49: matplotlib.CallDepth = 3
+2016-10-05T14:48:49: pandas.CallDepth = 0
+2016-10-05T14:48:49: sympy.CallDepth = 0
+2016-10-05T14:48:49: Start group "C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4" with 17 files
+2016-10-05T14:48:49: Parsing "bs4.dammit" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\dammit.py")
+2016-10-05T14:48:49: Parsing "bs4.diagnose" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\diagnose.py")
+2016-10-05T14:48:49: Parsing "bs4.element" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\element.py")
+2016-10-05T14:48:49: Parsing "bs4.testing" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\testing.py")
+2016-10-05T14:48:49: Parsing "bs4" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\__init__.py")
+2016-10-05T14:48:49: Parsing "bs4.builder._html5lib" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\builder\_html5lib.py")
+2016-10-05T14:48:49: Parsing "bs4.builder._htmlparser" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\builder\_htmlparser.py")
+2016-10-05T14:48:49: Parsing "bs4.builder._lxml" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\builder\_lxml.py")
+2016-10-05T14:48:49: Parsing "bs4.builder" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\builder\__init__.py")
+2016-10-05T14:48:49: Parsing "bs4.tests.test_builder_registry" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\test_builder_registry.py")
+2016-10-05T14:48:49: Parsing "bs4.tests.test_docs" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\test_docs.py")
+2016-10-05T14:48:49: Parsing "bs4.tests.test_html5lib" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\test_html5lib.py")
+2016-10-05T14:48:49: Parsing "bs4.tests.test_htmlparser" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\test_htmlparser.py")
+2016-10-05T14:48:49: Parsing "bs4.tests.test_lxml" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\test_lxml.py")
+2016-10-05T14:48:49: Parsing "bs4.tests.test_soup" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\test_soup.py")
+2016-10-05T14:48:49: Parsing "bs4.tests.test_tree" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\test_tree.py")
+2016-10-05T14:48:49: Parsing "bs4.tests" ("C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4\tests\__init__.py")
+2016-10-05T14:48:49: Parsing complete
+2016-10-05T14:48:49: Analyzing "bs4.dammit"
+2016-10-05T14:48:49: Analyzing "bs4.diagnose"
+2016-10-05T14:48:49: Analyzing "bs4.element"
+2016-10-05T14:48:49: Analyzing "bs4.testing"
+2016-10-05T14:48:49: Analyzing "bs4"
+2016-10-05T14:48:49: Analyzing "bs4.builder._html5lib"
+2016-10-05T14:48:49: Analyzing "bs4.builder._htmlparser"
+2016-10-05T14:48:49: Analyzing "bs4.builder._lxml"
+2016-10-05T14:48:49: Analyzing "bs4.builder"
+2016-10-05T14:48:49: Analyzing "bs4.tests.test_builder_registry"
+2016-10-05T14:48:49: Analyzing "bs4.tests.test_docs"
+2016-10-05T14:48:49: Analyzing "bs4.tests.test_html5lib"
+2016-10-05T14:48:49: Analyzing "bs4.tests.test_htmlparser"
+2016-10-05T14:48:49: Analyzing "bs4.tests.test_lxml"
+2016-10-05T14:48:49: Analyzing "bs4.tests.test_soup"
+2016-10-05T14:48:49: Analyzing "bs4.tests.test_tree"
+2016-10-05T14:48:49: Analyzing "bs4.tests"
+2016-10-05T14:48:49: Starting analysis of 17 modules
+2016-10-05T14:49:00: Analysis complete
+2016-10-05T14:49:00: Saving group "C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4"
+2016-10-05T14:49:01: End of group "C:\Users\prroy\Documents\Visual Studio 2013\Projects\ResumeDemo\ResumeDemo\env\Lib\site-packages\bs4"
+2016-10-05T14:49:01: Deleting 0 files

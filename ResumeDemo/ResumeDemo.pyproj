@@ -29,14 +29,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
+    <Compile Include="callPredictor.py" />
+    <Compile Include="getLinkedInData.py" />
     <Compile Include="routes.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
+    <Content Include="static\images\Background.jpg" />
     <Content Include="static\images\Microsoft.jpg" />
     <Content Include="static\styles\ResponseStyle.css" />
+    <Content Include="templates\Invalid.html" />
     <Content Include="templates\RequestPage.html" />
     <Content Include="static\styles\RequestStyle.css" />
     <Content Include="templates\ResponsePage.html" />
