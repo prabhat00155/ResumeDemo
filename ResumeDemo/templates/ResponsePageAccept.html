@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/ResponseStyle.css') }}" />
+    <title>Result</title>
+</head>
+<body>
+    {{label}}
+    <div class="clearfix">
+        <div class="c100 p{{score}} big green">
+            <span>{{score}}%</span>
+            <div class="slice">
+                <div class="bar"></div>
+                <div class="fill"></div>
+            </div>
+        </div>
+    </div>
+    <iframe srcdoc="{{ html_body }}"></iframe>
+</body>
+</html>

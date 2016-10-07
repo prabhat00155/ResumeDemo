@@ -2,6 +2,8 @@
 import json
 
 def resume_predict(profile_data):
+    profile_data["unit_id"] = "1"
+    profile_data["decision"] = ""
     data = {
         "Inputs": {
                 "input1":
@@ -23,7 +25,6 @@ def resume_predict(profile_data):
     try:
         response = urllib.request.urlopen(req)
         result = response.read().decode('utf-8')
-        #print(result)
     except urllib.error.HTTPError as error:
         print("The request failed with status code: " + str(error.code))
 

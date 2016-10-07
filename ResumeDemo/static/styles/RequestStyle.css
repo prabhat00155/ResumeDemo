@@ -8,13 +8,20 @@
     font-style: oblique;
     color: white;
 }
+
+input
+{
+    height: 25px;
+    width: 200px;
+}
+input[type=text]:focus 
+{
+    border: 3px solid #555;
+}
+
 #name
 {
    color: black;
    font-style: normal;  
-   font-size: 10px;
-}
-#submit
-{
-    color: red;
+   font-size: 15px;
 }

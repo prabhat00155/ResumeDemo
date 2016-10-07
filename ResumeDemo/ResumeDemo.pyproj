@@ -39,11 +39,13 @@
     <Content Include="requirements.txt" />
     <Content Include="static\images\Background.jpg" />
     <Content Include="static\images\Microsoft.jpg" />
+    <Content Include="static\js\html-feature-importance.js" />
     <Content Include="static\styles\ResponseStyle.css" />
     <Content Include="templates\Invalid.html" />
     <Content Include="templates\RequestPage.html" />
     <Content Include="static\styles\RequestStyle.css" />
-    <Content Include="templates\ResponsePage.html" />
+    <Content Include="templates\ResponsePageAccept.html" />
+    <Content Include="templates\ResponsePageReject.html" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
@@ -61,6 +63,7 @@
   <ItemGroup>
     <Folder Include="static\" />
     <Folder Include="static\images\" />
+    <Folder Include="static\js\" />
     <Folder Include="static\styles\" />
     <Folder Include="templates\" />
   </ItemGroup>
